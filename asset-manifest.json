@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Roomeo/static/css/main.677f3941.css",
+    "main.js": "/Roomeo/static/js/main.0acfaf04.js",
+    "index.html": "/Roomeo/index.html",
+    "main.677f3941.css.map": "/Roomeo/static/css/main.677f3941.css.map",
+    "main.0acfaf04.js.map": "/Roomeo/static/js/main.0acfaf04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677f3941.css",
+    "static/js/main.0acfaf04.js"
+  ]
+}
