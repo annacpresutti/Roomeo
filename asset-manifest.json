@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Roomeo/static/css/main.677f3941.css",
-    "main.js": "/Roomeo/static/js/main.8f6b452a.js",
+    "main.css": "/Roomeo/static/css/main.f4d0e448.css",
+    "main.js": "/Roomeo/static/js/main.d2735e57.js",
     "index.html": "/Roomeo/index.html",
-    "main.677f3941.css.map": "/Roomeo/static/css/main.677f3941.css.map",
-    "main.8f6b452a.js.map": "/Roomeo/static/js/main.8f6b452a.js.map"
+    "main.f4d0e448.css.map": "/Roomeo/static/css/main.f4d0e448.css.map",
+    "main.d2735e57.js.map": "/Roomeo/static/js/main.d2735e57.js.map"
   },
   "entrypoints": [
-    "static/css/main.677f3941.css",
-    "static/js/main.8f6b452a.js"
+    "static/css/main.f4d0e448.css",
+    "static/js/main.d2735e57.js"
   ]
 }
