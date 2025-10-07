@@ -240,10 +240,10 @@ function ChoresScreen({ members, chores, setChores }) {
           const xiaowen= members.find(m => m.id === "xiaowen");
           const bg = `conic-gradient(${anna.color} 0deg 90deg, ${tenley.color} 90deg 180deg, ${jake.color} 180deg 270deg, ${xiaowen.color} 270deg 360deg)`;
           const labels = [
-            { m: tenley,  angle: 135 }, // TL
+            { m: xiaowen,  angle: 135 }, // TL
             { m: anna,    angle: 45  }, // TR
             { m: jake,    angle: 225 }, // BL
-            { m: xiaowen, angle: 315 }  // BR
+            { m: tenley, angle: 315 }  // BR
           ];
           return (
             <div className="relative w-64 h-64 rounded-full shadow-inner" style={{ background: bg }}>
